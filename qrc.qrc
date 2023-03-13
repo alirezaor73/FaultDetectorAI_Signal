@@ -1,0 +1,25 @@
+<RCC>
+    <qresource prefix="/">
+        <file>0.jpg</file>
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+        <file>8.jpg</file>
+        <file>9.jpg</file>
+        <file>10.jpg</file>
+        <file>11.jpg</file>
+        <file>12.jpg</file>
+        <file>13.jpg</file>
+        <file>44839.png</file>
+        <file>file.jpg</file>
+        <file>main.qml</file>
+        <file>upload.png</file>
+        <file>file.html</file>
+        <file>14.jpg</file>
+        <file>logo.png</file>
+    </qresource>
+</RCC>
